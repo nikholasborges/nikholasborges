@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikholas Borges</h1>
-<h3 align="center">Software Engineer from Brazil | Passionate about Code, Open Source, AI and Games.</h3>
+<h3 align="center">A Software Engineer from Brazil | Passionate about Code, Open Source, AI and Games.</h3>
 
 - 🔭 I’m currently working at [Jeitto Meios de Pagamento](https://www.linkedin.com/company/fintechjeitto/mycompany/)
 
