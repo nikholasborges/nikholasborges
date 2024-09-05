@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikholas Borges</h1>
-<h3 align="center">A Software Engineer from Brazil | Passionate about Code, Open Source, AI and Games.</h3>
-
-<h1> Hello, nice to meet you, I'm <strong style="color:#41ded3">Lucas!</strong>  😄</h1>
-
-<img style="padding:10px" align="right" width="220" src="https://i.pinimg.com/originals/d9/bb/49/d9bb49ceafc6488856d774d62fdfa478.jpg">
+<h1> Hello, nice to meet you, I'm <strong style="color:#41ded3">Nikholas!</strong>  😄</h1>
 
 <p> I'm a Software Engineer based in Brazil, passionate about backend, solving problems, and my two favorite things in this world: Games and Animes!</p>
 Additionally, I'm a hardcore Gamer and a language nerd, always pushing to defeat the toughest bosses and currently studying my third language, japanese! 🎲
