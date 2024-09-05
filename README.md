@@ -5,7 +5,7 @@ Additionally, I'm a hardcore Gamer and a language nerd, always pushing to defeat
 <hr>
 I have 5+ years of experience in software engineering, where I have undertaken various types of work including freelancing, system analyst in a multinational team, supporting a major electricity company, and currently holding a position as a Software Engineer at Jeitto, developing, maintaining and engineering solutions for high-performance microservices and systems designed to handle the heavy task of a fintech backend.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LLxD&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikholasborges&hide=stars&show_icons=true&theme=dark#gh-dark-mode-only&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
